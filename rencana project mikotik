@@ -1,0 +1,6 @@
+ip service
+ip ssh
+ip network
+ip arp
+ip winbox
+ip resources
